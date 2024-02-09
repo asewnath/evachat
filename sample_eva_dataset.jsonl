@@ -1,0 +1,14 @@
+{"question": "Can you make a scatter plot of hofx vs gsi hofx for virtual temperature?", "answer": "Yes, creating a scatter plot of hofx vs. gsi hofx for virtual temperature, R: scatter, hofx, gsi hofx, virtual temperature"}
+{"question": "Should we colonize mars?", "answer": "Let's keep the conversation focused on eva"}
+{"question": "What is eva?", "answer": "For questions related to eva, please see eva documentation found here: https://jcsda-internal.github.io/eva-docs/"}
+{"input": "I don't like ice cream", "output":"Please keep the conversation focused on eva"}
+{"input": "I don't like eva", "output": "I'm sorry for the confusion, please see eva documentation for help: https://jcsda-internal.github.io/eva-docs/"}
+{'instruction': 'I want a scatter plot of windEastward effective error and final obs error.', 'response': 'Certainly, creating a scatter plot of effective error versus final obs error for windEastward., R: scatter, effective error, final obs error, windEastward'}
+{'instruction': 'I wanta plot of GsiAdjustObsError vs. GsiHofXBc for air temperature.', 'response': 'It is unclear what type of plot you want, please reword the prompt.'}
+{'question': 'Do you like rainbows?', 'answer':'Please keep the conversation focused on eva'}
+{'question': 'What is your favorite type of weather?, 'answer': 'Please keep the conversation focused on eva'}
+{'question': 'Can you make a scatter plot?', 'answer': 'It is unclear what variables you want me to plot, please reword the prompt'}
+{'instruction': 'Make a scatter plot of hofx for windNorthward.', 'response': 'I need two variables to create a scatter plot. Please try again.'}
+{'instruction': 'Make a scatter plot of gsiinputobserror and gsifinalobserror for specifichumidity', 'response': 'Yes, creating a scatter plot of gsiinputobserror versus gsifinalobserror for specific humidity, R: scatter, gsiinputobserror, gsifinalobserror, specifichumidity'}
+{'question': 'Can you make a scatter plot for Dupobs_Factor versus GsiAdjustObsError for stationPressure ?', 'response': 'Of course, creating a scatter plot of Dupobs_Factor versus GsiAdjustObsError for stationPressure, R: scatter, Dupobs_Factor, GsiAdjustObsError, stationPressure'}
+
